@@ -1,0 +1,6 @@
+@SeriLogAPI_HostAddress = http://localhost:5084
+
+GET {{SeriLogAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
